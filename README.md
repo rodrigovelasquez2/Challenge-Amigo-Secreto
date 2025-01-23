@@ -33,7 +33,7 @@ El proyecto se compone de los siguientes archivos:
 
 ## Instrucciones de Uso 📖
 
-1. Abre la pagina web del siguiente enlace 
+1. Abre la pagina web del siguiente enlace https://rodrigovelasquez2.github.io/Challenge-Amigo-Secreto/
 2. Ingresa los nombres de los amigos en el campo de texto.
 3. Haz clic en el botón **"Adicionar"** para agregar cada nombre a la lista.
 4. Una vez que todos los nombres estén en la lista, haz clic en el botón **"Sortear Amigo"**.
