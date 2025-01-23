@@ -33,7 +33,11 @@ function sortearAmigo() {
 
     indice = Math.floor(Math.random() * list_amigos.length);
     amigoSorteado = list_amigos[indice];
-    alert('El amigo sorteado es: ' + amigoSorteado);
+    console.log(amigoSorteado);
+
+    let resultadoHTML = document.getElementById('resultado');
+    resultadoHTML.innerHTML = `El amigo sorteado es: ${amigoSorteado} 🎉 `;
+
 
 
 }
